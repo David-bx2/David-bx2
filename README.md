@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David-bx2
 - 👀 I’m interested in ... Became a software programer 
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... C++,js,HTML,CSS, MySQL
+- 💞️ I’m looking to collaborate on ... anything that can teach me something lol
 - 📫 How to reach me ... Preferably over email
 
 <!---
